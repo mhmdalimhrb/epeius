@@ -1,5 +1,5 @@
-vless://5fe6fdaa-7b70-4c87-bc2b-cc2833e4e217@5.10.214.143:443?path=%2F&security=tls&encryption=none&host=mamad.mrdeVco.ir&type=ws#zerotls
-vless://5fe6fdaa-7b70-4c87-bc2b-cc2833e4e217@5.10.214.143:80?path=%2F&security=none&encryption=none&host=mamad.mrdevCo.ir&type=ws#zero
+vless://5fe6fdaa-7b70-4c87-bc2b-cc2833e4e217@5.10.214.143:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mamad.mrdeVco.ir&fp=random&type=ws&sni=mamad.mrdeVco.ir#zerotls
+vless://5fe6fdaa-7b70-4c87-bc2b-cc2833e4e217@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=mamad.mrdevCo.ir&type=ws#zero
 vless://cd65371b-7c55-45c8-8ee1-4d144efb6e65@188.245.106.118:51772?mode=auto&path=%2Ftoroqan&security=reality&encryption=none&pbk=YtE9qNo2i_KsJUUM5JkkY4xgukoYGl-dIx9ZKsrPjRY&host=presidential-salmon-vz-a587c1b2.mrdevco.ir.&fp=chrome&spx=%2F&type=xhttp&sni=refersion.com&sid=a969f192214ddd#real-x
 vless://26e0127f-3dca-469c-9661-5311a824e9cd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=%2FfbXBuqN1BgZ5vBag7rN0r%3Fed%3D2560&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=toroQan.coM.&type=xhttp#fast
 vless://b4c26969-665f-41dd-ae34-3d878afd9ac8@188.245.106.118:30017?type=grpc&serviceName=&authority=&security=reality&pbk=Vj3WvHskIZiUcqFUOf8j66EJjoaKqDC3UIUJeIyH1X4&fp=chrome&sni=tgju.org&sid=ccaa1baab0f8&spx=%2F#realgrpc
