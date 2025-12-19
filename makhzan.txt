@@ -1,6 +1,3 @@
-vless://5fe6fdaa-7b70-4c87-bc2b-cc2833e4e217@5.10.214.143:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mamad.mrdeVco.ir&fp=random&type=ws&sni=mamad.mrdeVco.ir#zerotls
-vless://5fe6fdaa-7b70-4c87-bc2b-cc2833e4e217@5.10.214.143:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=mamad.mrdevCo.ir&type=ws#zero
-vless://cd65371b-7c55-45c8-8ee1-4d144efb6e65@188.245.106.118:51772?mode=auto&path=%2Ftoroqan&security=reality&encryption=none&pbk=YtE9qNo2i_KsJUUM5JkkY4xgukoYGl-dIx9ZKsrPjRY&host=presidential-salmon-vz-a587c1b2.mrdevco.ir.&fp=chrome&spx=%2F&type=xhttp&sni=refersion.com&sid=a969f192214ddd#real-x
-vless://26e0127f-3dca-469c-9661-5311a824e9cd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=%2FfbXBuqN1BgZ5vBag7rN0r%3Fed%3D2560&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=toroQan.coM.&type=xhttp#fast
-vless://b4c26969-665f-41dd-ae34-3d878afd9ac8@188.245.106.118:30017?type=grpc&serviceName=&authority=&security=reality&pbk=Vj3WvHskIZiUcqFUOf8j66EJjoaKqDC3UIUJeIyH1X4&fp=chrome&sni=tgju.org&sid=ccaa1baab0f8&spx=%2F#realgrpc
-vless://70b45d28-d481-4cdb-a271-03364f264906@188.245.106.118:34847?type=tcp&security=reality&pbk=cGh-DdUTGO7JSvE-Y6MRxun8UG9HLt2FJG_ehk5wO0k&fp=chrome&sni=androidcentral.com&sid=d8bca9b4459b&spx=%2F&flow=xtls-rprx-vision#realtcp
+vless://f337828e-7240-42d7-8382-8b75e1e72e5e@172.67.226.132:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mhmd.mrdeveloperco.iR&fp=firefox&type=ws&sni=mhmd.mrdevelopercO.ir.#zerotlssni
+vless://78eae610-781b-4eac-a458-4f58c726fd61@65.109.212.196:443?mode=gun&security=reality&encryption=none&pbk=D9nM2jcnmY3L_KNxce79zLBb-clGEIL9VPM5J88wlUE&fp=chrome&spx=%2F&type=grpc&sni=tgju.org#grpc
+vless://f337828e-7240-42d7-8382-8b75e1e72e5e@172.67.226.132:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=mhmd.mrdeveloperco.ir&type=ws#zero
